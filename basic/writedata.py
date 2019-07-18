@@ -1,5 +1,5 @@
 
-f= open('basic/word.txt','w',encoding='utf8')
+f= open('basic/rank.txt','w',encoding='utf8')
 
 
 
