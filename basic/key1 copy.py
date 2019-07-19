@@ -69,7 +69,6 @@ while True:
             if not(line==''):
                 k,v=line.split(':')
                 rank[k]=float(v)
-                
     else:
-        print('잘못입력')
+        pass
             
