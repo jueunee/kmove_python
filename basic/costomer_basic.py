@@ -44,7 +44,7 @@ while True:
             customer['birthyear']= input('출생년도 4자리')
             if len(customer['birthyear'])==4 and customer['birthyear'].isdigit():
                 break
-           
+            
         print(customer)
         custlist.append(customer)
         print(custlist)
